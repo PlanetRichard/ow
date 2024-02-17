@@ -1,0 +1,16 @@
+body
+{
+    background-image: radial-gradient(circle,pink 75%,white)
+}
+
+p
+{
+    color: black;
+}
+
+.meow
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60;
+    color: pink;
+}
